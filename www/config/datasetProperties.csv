@@ -1,0 +1,26 @@
+"dataset","chrColumn","bpColumn","traitCol","yAxisColumn","logP","axisLim","axisMin","axisMax","organism","plotAll","supportInterval","SIyAxisColumn","SIbpStart","SIbpEnd","SIaxisLimBool","SIaxisMin","SIaxisMax"
+"RiceDiversity.44k.MSU6.GWAS.csv","CHR {integer}","position.IRGSP.v4 {integer}","variable {character}","logP {numeric}",FALSE,FALSE,0,1,"Rice",FALSE,FALSE,"CHR","SNPID","SNPID",TRUE,0,1
+"Example GWAS with JL","chr {integer}","bp {integer}","loc {character};Trait {character}","modIncProb {numeric}",FALSE,TRUE,0,1,"Corn",FALSE,TRUE,"F","lowerCIbp","upperCIbp",FALSE,0,1
+"Maize282.AllDatasetsSNPs.max","chr {integer}","bp {integer}","cofactor {integer};phenotype {character};loc {character}","logP {numeric}",FALSE,FALSE,0,1,"Corn",FALSE,FALSE,"chr","bp","bp",TRUE,0,1
+"arabanthocyanin10kw.pvals.csv","chr {integer}","position {integer}","gve {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",TRUE,FALSE,"score","position","position",FALSE,0,1
+"Example GWAS Data","chr {integer}","bp {integer}","loc {character};Trait {character}","avgPval {numeric}",TRUE,FALSE,0,1,"Corn",FALSE,FALSE,"numIterations","bp","bp",TRUE,0,1
+"SILIQUES_EXPB_ratio_fixedb.csv","chr {integer}","pos {integer}","","score {numeric}",FALSE,TRUE,0,20,"Arabidopsis",FALSE,FALSE,"chr","pos","pos",TRUE,0,1
+"CUR_Cloud_cover_Springb.csv","chr {integer}","pos {integer}","","score {numeric}",FALSE,TRUE,0,10,"Arabidopsis",FALSE,FALSE,"chr","pos","pos",TRUE,0,10
+"AVHRR_SMT_SUMMER_MAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"AVHRR_SMT_SPRING_MAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"CHELSA_BIO15_MAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"CHELSA_BIO12_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,40,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"tmp_Spring_fixed_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,50,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"WC2_tmax_summer_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,15,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"GLOBAL_SOLAR_PVOUT_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,20,"Corn",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"Watervapor_Summer_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,20,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"tmn_spring_MAC05.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,33,"Corn",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"UV_SUMMER_MAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,22,"Corn",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"WC1_BIO6_MAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,20,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,20
+"Aridity_index_DeblauweMAC05.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,TRUE,0,10,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,10
+"AVHRR landcover Croplands.csv","chr {integer}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"chr","chr","chr",TRUE,0,1
+"WorldClim water vapor pressure summer.csv","chr {factor}","pos {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"totalBP","chr","chr",TRUE,0,1
+" WorldClim v2 BIO13.csv","Chr {factor}","Position {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"ALT","Chr","Chr",TRUE,0,1
+" WorldClim v2 BIO19.csv","Chr {integer}","Chr {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"ALT","Chr","Chr",TRUE,0,1
+" WorldClim v2 BIO1.csv","Chr {integer}","Position {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"Chr","Chr","Chr",TRUE,0,1
+" WorldClim v2 BIO6.csv","Chr {integer}","Position {integer}","Effect {character}","score {numeric}",FALSE,FALSE,0,1,"Arabidopsis",FALSE,FALSE,"ALT","Chr","Chr",TRUE,0,1
