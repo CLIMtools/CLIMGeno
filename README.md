@@ -1,4 +1,4 @@
-[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/GenoCLIM/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
+[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/CLIMGeno/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
 
 # [GenoCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/ "GenoCLIM")
 [**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/) (https://rstudio.aws.science.psu.edu:3838/aaf11/GenoCLIM/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) that allows the user to explore the environmental variation associated to any gene or variant of interest in *Arabidopis thaliana*.
