@@ -3,7 +3,7 @@
 # [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
 [**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) (https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) originally adapted from the [**Zbrowse viewer**] (http://www.baxterlab.org/untitled-cqi0) created by the [**Baxter laboratory**] (http://www.baxterlab.org/) intended to explore the genetic variation associated with the environment.
 
-Navigation through the graphs and tables in CLIMGeno is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
+Navigation through the graphs and tables in [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno") is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
 
 To use this application choose the ExG association of interest from the left panel. The table on this tab provides a summary of the 25 variants with the strongest associations to the selected variable:
 
@@ -15,14 +15,14 @@ To use this application choose the ExG association of interest from the left pan
 
 4. The annotation table tab, provides an interactive table with the information in the genetic region selected in the previous tab.
 
-This tool provides information on the q-values for all associated variants for the user to impose a particular FDR if desired. We recommend the exploration of the FDR parameters for these ExG association using our FDRCLIM tool.
+This tool provides information on the q-values for all associated variants for the user to impose a particular FDR if desired. We recommend the exploration of the FDR parameters for these ExG association using our [FDRCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/FDRCLIM/ "FDRCLIM") tool.
 
-We recommend the user of CLIMGeno to become familiar with the limitations inherent to genome-wide association studies, for which a description is available in the left panel.
+We recommend the user of CLIMGeno to become familiar with the [limitations inherent to genome-wide association studies]((https://github.com/CLIMtools/AraCLIM/tree/master/www/myfile.pdf), for which a description is available in the left panel.
 
-For a more detailed description of the logic behind the Zbrowse viewer in this tool visit the user manual by Greg Ziegler.
+For a more detailed description of the logic behind the [Zbrowse viewer](http://www.baxterlab.org/untitled-cqi0) used in this tool visit the [user manual](http://docs.wixstatic.com/ugd/52737a_2a65d0deb3bd4da2b5c0190c0de343ca.pdf) by Greg Ziegler.
 
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
-The data from the GxE associations provided by this tool as is available in the data/ folder. 
+The data from the GxE associations provided by this tool as is available in [data/ folder](https://github.com/CLIMtools/AraCLIM/www/config/data). 
 
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
