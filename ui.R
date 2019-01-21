@@ -33,7 +33,7 @@ shinyUI(fluidPage(
         #    ),
         #uiOutput("ui_Manage")
         uiOutput("ui_All"),
-        width=3,       wellPanel(a(h4('Please cite us:'),  href = "https://www.nature.com/articles/s41559-018-0754-5", h6('Ferrero-Serrano, Á & Assmann SM. Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)' ))),
+        width=3,       wellPanel(a(h4('Please cite us in any publication that utilizes information from  Arabidopsis CLIMtools:'),  href = "https://www.nature.com/articles/s41559-018-0754-5", h6('Ferrero-Serrano, Á & Assmann SM. Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)' ))),
 wellPanel(tags$a(img(src='climgenowarning.png', h3("Considerations before using this tool"), height="120px"),href="myfile.pdf"),align="center"), wellPanel(tags$a(img(src='FDR.png', h3("Explore FDR of any ExG association"), height="120px"),href="https://rstudio.aws.science.psu.edu:3838/aaf11/FDRCLIM/"),align="center"), wellPanel(a("Tweets by @ClimTools", class="twitter-timeline"
                                 , href = "https://twitter.com/ClimTools"), style = "overflow-y:scroll; max-height: 1000px"
         ),
