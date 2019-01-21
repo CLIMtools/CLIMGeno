@@ -1,7 +1,7 @@
 [<img align="left" width="150" height="150" src="https://github.com/CLIMtools/CLIMGeno/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
 
 # [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
-[**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) (https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) originally adapted from the [**Zbrowse viewer**] (http://www.baxterlab.org/untitled-cqi0) created by the [**Baxter laboratory**] (http://www.baxterlab.org/) intended to explore the genetic variation associated with the environment.
+[**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) (https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) originally adapted from the [**Zbrowse viewer**] (http://www.baxterlab.org/untitled-cqi0) created by the [**Baxter laboratory**](http://www.baxterlab.org/) intended to explore the genetic variation associated with the environment.
 
 Navigation through the graphs and tables in [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno") is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
 
