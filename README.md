@@ -22,7 +22,7 @@ We recommend the user of CLIMGeno to become familiar with the [limitations inher
 For a more detailed description of the logic behind the [Zbrowse viewer](http://www.baxterlab.org/untitled-cqi0) used in this tool visit the [user manual](http://docs.wixstatic.com/ugd/52737a_2a65d0deb3bd4da2b5c0190c0de343ca.pdf) by Greg Ziegler.
 
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
-The data from the GxE associations provided by this tool as is available in [data/ folder](https://github.com/CLIMtools/AraCLIM/www/config/data). 
+The data from the GxE associations provided by this tool as is available in [data/ folder](https://github.com/CLIMtools/CLIMGeno/www/config/data). 
 
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
