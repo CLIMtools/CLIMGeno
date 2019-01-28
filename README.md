@@ -31,7 +31,7 @@ The data from the GxE associations provided by this tool as is available in [dat
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
 
 
-[**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?author_access_token=uMF6Vr-F9VgWSbqwx3ol4tRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4w_SmcB99HlQmvk-xORaUBX)
+[**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?shared_access_token=7G2rqgz5YIsUFUQDzOOwwtRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4wDh1E_905NLgAEUDsgSxMeCUvfrdwzMerY68l_0xqLtN4hZkD3eeuiMuub_3wA-0ai22Mkp6nj-1R1gfz5uNZNn7voROoJdRKIabCXqxz3ko%3D)
 
 
 [<img align="left" src="https://github.com/CLIMtools/CLIMGeno/blob/master/Screen Shot.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
