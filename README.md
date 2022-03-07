@@ -1,9 +1,9 @@
-[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/CLIMGeno/blob/master/www/picture2.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
+[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/CLIMGeno/blob/master/www/picture2.png">](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/ "CLIMGeno")
 
-# [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno")
-[**GenoCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) (https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) is an SHINY component of [**Arabidopsis CLIMtools**](http://www.personal.psu.edu/sma3/CLIMtools.html) (http://www.personal.psu.edu/sma3/CLIMtools.html) originally adapted from the [**Zbrowse viewer**](http://www.baxterlab.org/untitled-cqi0) created by the [**Baxter laboratory**](http://www.baxterlab.org/) intended to explore the genetic variation associated with the environment.
+# [CLIMGeno](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/ "CLIMGeno")
+[**GenoCLIM**](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/) (https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/) is an SHINY component of [**Arabidopsis CLIMtools**](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/) (http://www.personal.psu.edu/sma3/CLIMtools.html) originally adapted from the [**Zbrowse viewer**](http://www.baxterlab.org/untitled-cqi0) created by the [**Baxter laboratory**](http://www.baxterlab.org/) intended to explore the genetic variation associated with the environment.
 
-Navigation through the graphs and tables in [CLIMGeno](https://rstudio.aws.science.psu.edu:3838/aaf11/CLIMGeno/ "CLIMGeno") is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
+Navigation through the graphs and tables in [CLIMGeno](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/ "CLIMGeno") is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
 
 To use this application choose the ExG association of interest from the left panel. The table on this tab provides a summary of the 25 variants with the strongest associations to the selected variable:
 
@@ -27,9 +27,11 @@ Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
 The data from the GxE associations provided by this tool as is available in [data/ folder](https://github.com/CLIMtools/CLIMGeno/tree/master/www/config/data). 
 
-## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
-**Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
 
+## Citation
+**-Ferrero‑Serrano,Á, Sylvia, MM, Forstmeier, PC, Olson, AJ, Ware, D,Bevilacqua, PC & Assmann, SM** (2022). Experimental demonstration and pan‑structurome prediction of climate‑associated riboSNitches in Arabidopsis. Under review in Genome Biology.
+
+**-Ferrero-Serrano, Á & Assmann SM.** (2019) Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5.
 
 [**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?shared_access_token=7G2rqgz5YIsUFUQDzOOwwtRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4wDh1E_905NLgAEUDsgSxMeCUvfrdwzMerY68l_0xqLtN4hZkD3eeuiMuub_3wA-0ai22Mkp6nj-1R1gfz5uNZNn7voROoJdRKIabCXqxz3ko%3D)
 
