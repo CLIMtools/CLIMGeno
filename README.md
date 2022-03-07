@@ -5,7 +5,7 @@
 
 Navigation through the graphs and tables in [CLIMGeno](https://gramene.org/CLIMtools/arabidopsis_v2.0/CLIMGeno-V2/ "CLIMGeno") is done using the tabs at the top of the page, adjusting options on the sidebar panel, or clicking points on the plots. The user interface is designed to be intuitive and allow the user to quickly zoom into a point of interest anywhere on the genome.
 
-To use this application choose the ExG association of interest from the left panel. The table on this tab provides a summary of the 25 variants with the strongest associations to the selected variable:
+To use this application choose the ExG association of interest from the left panel. The table on this tab provides a summary of the 2,500 variants with the strongest associations to the selected variable:
 
 1. The Data Table tab provides a full description of the associated variants for the selected environmental variable. The user can easily manage the columns to be shown, rank based on score or q-value, or search and retrieve information for any associated variant.
 
